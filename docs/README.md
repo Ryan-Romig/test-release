@@ -1,5 +1,8 @@
 # Flashing Syryn Cast (project opal)
 ---
+Download Files
+[Firmware_download](https://github.com/Ryan-Romig/opal-test-release/files/9954225/underwater-audio-test.zip)
+---
 
 ## Setup Enviroment
 1. ### Install Python 3
