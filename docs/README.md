@@ -50,7 +50,6 @@ Once the COM port is determined working you can edit the flash.bat file to know 
 
 #### Files
 * [Firmware Download Package](https://github.com/Ryan-Romig/opal-test-release/files/9954225/underwater-audio-test.zip)
-* [Demo Video](https://github.com/Ryan-Romig/opal-test-release/releases/download/v0.0.1/DEMO.mp4)
-* [Install Board to Flash Tool-1](https://github.com/Ryan-Romig/opal-test-release/releases/download/v0.0.1/install.png)
-* [Install Board to Flash Tool-2](https://github.com/Ryan-Romig/opal-test-release/releases/download/v0.0.1/installing.png)
-* [Install Board to Flash Tool-3](https://github.com/Ryan-Romig/opal-test-release/releases/download/v0.0.1/finishedInstall.png)
+* [Demo Video Download](https://github.com/Ryan-Romig/opal-test-release/releases/latest/DEMO.mp4)
+* [Images Viewing](https://github.com/Ryan-Romig/opal-test-release/releases/latest)
+
