@@ -2,6 +2,8 @@
 ---
 Download Files
 [Firmware_download](https://github.com/Ryan-Romig/opal-test-release/files/9954225/underwater-audio-test.zip)
+[Demo Flashing Video]([https://objects.githubusercontent.com/github-production-release-asset-2e65be/563001662/9125b424-94a5-437a-ab45-cbda25d43c64?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20221107%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20221107T175448Z&X-Amz-Expires=300&X-Amz-Signature=2bfca3fbf7693c810e90eb082787f292894c1dc4b6237f17e0355d6eeb24dcfe&X-Amz-SignedHeaders=host&actor_id=46287392&key_id=0&repo_id=563001662&response-content-disposition=attachment%3B%20filename%3DDEMO.mp4&response-content-type=application%2Foctet-stream](https://github.com/Ryan-Romig/opal-test-release/releases/download/v0.0.1/DEMO.mp4))
+[see release for more images](https://github.com/Ryan-Romig/opal-test-release/releases/tag/v0.0.1)
 ---
 
 ## Setup Enviroment
