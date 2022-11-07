@@ -49,7 +49,7 @@ Once the COM port is determined working you can edit the flash.bat file to know 
 * LED will light solid when any button is pressed
 
 #### Files
-* [Firmware Download Package](https://github.com/Ryan-Romig/opal-test-release/files/9954225/underwater-audio-test.zip)
-* [Demo Video Download](https://github.com/Ryan-Romig/opal-test-release/releases/latest/DEMO.mp4)
+* [Firmware Download Package](https://github.com/Ryan-Romig/opal-test-release/latest/download/underwater-audio-test.zip)
+* [Demo Video Download](https://github.com/Ryan-Romig/opal-test-release/releases/latest/download/DEMO.mp4)
 * [Images Viewing](https://github.com/Ryan-Romig/opal-test-release/releases/latest)
 
