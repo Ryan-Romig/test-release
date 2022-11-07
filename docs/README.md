@@ -1,6 +1,6 @@
 # Flashing Syryn Cast (project opal)
 ---
-#### [See bottom for download links](https://github.com/Ryan-Romig/opal-test-release/blob/main/docs/README.md#Files Download)
+#### [See bottom for download links](https://github.com/Ryan-Romig/opal-test-release/blob/main/docs/README.md#Files)
 ## Setup Enviroment
 1. ### Install Python 3
     * [Download Python installer for Windows x64](https://www.python.org/ftp/python/3.11.0/python-3.11.0-amd64.exe)
@@ -48,4 +48,4 @@ Once the COM port is determined working you can edit the flash.bat file to know 
 * Audio will play from the headphone jack saying ``"power on"`` every 3 seconds.  
 * LED will light solid when any button is pressed
 
-#### Files Download
+#### Files
