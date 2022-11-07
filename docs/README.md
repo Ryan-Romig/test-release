@@ -1,6 +1,6 @@
 # Flashing Syryn Cast (project opal)
 ---
-#### [See bottom for download links](/docs/README#Files Download)
+#### [See bottom for download links](https://github.com/Ryan-Romig/opal-test-release/blob/main/docs/README.md)
 ## Setup Enviroment
 1. ### Install Python 3
     * [Download Python installer for Windows x64](https://www.python.org/ftp/python/3.11.0/python-3.11.0-amd64.exe)
