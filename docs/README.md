@@ -1,17 +1,6 @@
 # Flashing Syryn Cast (project opal)
 ---
-Download Files
-[Firmware_download](https://github.com/Ryan-Romig/opal-test-release/files/9954225/underwater-audio-test.zip)
----
-
----
-[Demo Flashing Video](https://github.com/Ryan-Romig/opal-test-release/releases/download/v0.0.1/DEMO.mp4)
----
-
----
-[see release for more images](https://github.com/Ryan-Romig/opal-test-release/releases/tag/v0.0.1)
----
-
+#### [See bottom for download links](/docs/README#Files Download)
 ## Setup Enviroment
 1. ### Install Python 3
     * [Download Python installer for Windows x64](https://www.python.org/ftp/python/3.11.0/python-3.11.0-amd64.exe)
@@ -59,4 +48,4 @@ Once the COM port is determined working you can edit the flash.bat file to know 
 * Audio will play from the headphone jack saying ``"power on"`` every 3 seconds.  
 * LED will light solid when any button is pressed
 
-
+#### Files Download
