@@ -1,31 +1,22 @@
-install python3
-make sure to check the box
-
-go to device manager and check for com port
-
-run flash.bat file and input com port when asked (example : COM4 )
-
-flash.bat will make sure esptool is installed. this is required package for flashing. it takes just one minute.  
-
 # Flashing Syryn Cast (project opal)
 ---
 
 ## Setup Enviroment
-1. ### install python 3
+1. ### Install Python 3
     * [Download Python installer for Windows x64](https://www.python.org/ftp/python/3.11.0/python-3.11.0-amd64.exe)
     * Run the python installer. make sure to check the "Add python.exe to PATH" checkbox 
         * ![python_install](/docs/assets//python_install.PNG)
 
-2. ### install esptool with pip (pip is included when python is installed)
+2. ### Install esptool with pip (pip is included when python is installed)
     * this is installed when running the flash.bat script. 
     * it can manually be installed by opening command promt and running command 
     ```cmd
     pip install esptool
 ## Flashing
-1. Install flashing Cable into PCB
+1. ### Install flashing Cable into PCB
     * Place cable on side without chips so the pins connect to the pads on the PCB
         ![](/docs/assets/)
-2. Determine Com Port
+2. ### Determine Com Port
     * open Device Manager and look under COM port. Remember COM ports
         * Device Disconnected
         ![com_before](/docs/assets/com_before.PNG)
@@ -34,7 +25,7 @@ flash.bat will make sure esptool is installed. this is required package for flas
         ![com_after](/docs/assets/com_after.PNG)
     * The correct COM port is the higher valued com port. for this example, COM4 is the correct port. 
 
-2. run flash.bat and enter the correct COM port when asked.
+3. ### Run flash.bat and enter the correct COM port when asked.
 Once the COM port is determined working you can edit the flash.bat file to know your COM port instead of asked every time like this : 
     * remove line 1 that reads 
         ```txt
@@ -52,7 +43,9 @@ Once the COM port is determined working you can edit the flash.bat file to know 
 # Notes
 * Make sure power jumper is in correct spot. 3.3V or 5.0V are both okay.
     ![jumper_image](/docs/assets/jumper_image.png)
-* blue light will blink in a pattern of 2 slow, 2 fast, pause 2 seconds and repeat when
+* Blue LED will blink in a pattern of 2 slow, 2 fast, pause 2 seconds and repeat when
 * Wi-Fi will broadcast an Access Point with SSID of ```Underwater Audio```
 * Audio will play from the headphone jack saying ``"power on"`` every 3 seconds.  
 * LED will light solid when any button is pressed
+
+
