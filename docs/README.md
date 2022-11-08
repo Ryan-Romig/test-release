@@ -49,9 +49,9 @@ Once the COM port is determined working you can edit the flash.bat file to know 
 
 # Notes
 * Make sure power jumper is in correct spot. 3.3V or 5.0V are both okay.
-    ![jumper_image](/docs/assets/jumper_image.png)
-* White LED will blink in a pattern of 2 slow, 2 fast, pause 2 seconds and repeat when
+  * ![jumper_image](/docs/assets/jumper_image.png)
 * Wi-Fi will broadcast an Access Point with SSID of ```Underwater Audio```
+* White LED will blink in a pattern of 2 slow, 2 fast, pause 2 seconds and repeat after Wi-Fi AP sucessfully starts
 * Audio will play from the headphone jack saying ``"power on"`` every 3 seconds.  
 * LED will light solid when any button is pressed
 
