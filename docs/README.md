@@ -1,6 +1,13 @@
 # Flashing Syryn Cast (project opal)
 ---
 #### [See bottom for download links](https://github.com/Ryan-Romig/opal-test-release/blob/main/docs/README.md#Files)
+---
+### Flashing Tool used is ESP-PROG from espressif used with the TAG-Connect cable
+* [ESP Programmer [ESP-PROG]](https://www.digikey.com/en/products/detail/espressif-systems/ESP-PROG/10259352?s=N4IgTCBcDaIKIGUAKBaJAnA9gcwAQCNMBDdAExAF0BfIA)
+* [Cable[ Tag Connect tc2030-idc-nl-10-6]](https://www.tag-connect.com/product/tc2030-idc-nl-10-6-pin-plug-of-nails-spring-pin-cable-with-0-1-ribbon-connector-10-version)
+   * retainer clip for cable
+   [Retainer [Tag Connect tc2030-retaining-clip ] ](https://www.tag-connect.com/product/tc2030-retaining-clip-board-3-pack)
+
 ## Setup Enviroment
 1. ### Install Python 3
     * [Download Python installer for Windows x64](https://www.python.org/ftp/python/3.11.0/python-3.11.0-amd64.exe)
