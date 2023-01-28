@@ -35,11 +35,11 @@
 3. ### Run flash.bat and enter the correct COM port when asked.
 Once the COM port is determined working you can edit the flash.bat file to know your COM port instead of asked every time like this : 
     * remove line 1 that reads 
-        ```txt
+        ```
         set /p "id=Enter COM port: "
         ```
         and replace with 
-        ```txt
+        ```
         set /A id=COMX
         ```        
         where ```COMX``` is the correct ```COM``` port on your machine.
