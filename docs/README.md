@@ -1,6 +1,6 @@
-# Flashing Syryn Cast (project opal)
+# Flashing ESP32 Custom Board
 ---
-#### [See bottom for download links](https://github.com/Ryan-Romig/opal-test-release/blob/main/docs/README.md#Files)
+#### [See bottom for download links](https://github.com/Ryan-Romig/test-release/blob/main/docs/README.md#Files)
 ---
 ### Flashing Tool used is ESP-PROG from espressif used with the TAG-Connect cable
 * [ESP Programmer [ESP-PROG]](https://www.digikey.com/en/products/detail/espressif-systems/ESP-PROG/10259352?s=N4IgTCBcDaIKIGUAKBaJAnA9gcwAQCNMBDdAExAF0BfIA)
