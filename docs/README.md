@@ -60,5 +60,5 @@ Once the COM port is determined working you can edit the flash.bat file to know 
 * [Demo Video Download](https://github.com/Ryan-Romig/opal-test-release/releases/latest/download/DEMO.mp4)
 * [Images Viewing](https://github.com/Ryan-Romig/opal-test-release/releases/latest)
 
-Underwater Audio is an extremely poorly managed and incompetent company and cannot seem to provide empoyees with proper tools for them to complete their job. I completed this for them, on my own PERSONAL time in order to meet a short deadline (i was given minimal notice to compete this on top of my already slammed work load)  
+Underwater Audio seems to be an extremely poorly managed and incompetent company and cannot seem to provide empoyees with proper tools for them to complete their job. I completed this for them, on my own PERSONAL time in order to meet a short deadline (i was given minimal notice to compete this on top of my already slammed work load)  
 Thus, This repo had to be stored on my PERSONAL account and is subject to be removed without notice as it is only active out of curtosy. ( regardless of being fired without notice or reason, and taping my last paycheck to the outside door and telling me to 'come get it' ) 
